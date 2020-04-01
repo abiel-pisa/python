@@ -18,5 +18,5 @@ for c in range (0,4):
 media = idade_total/4
 print('A média das idades é {} anos'.format(media))
 if Hvelho != 0:
-    print('O homem mais velho entre estes 4 é o sr.{} e têm {} anos'.format(Hvelho, i))
+    print('O homem mais velho entre estes 4 é o \033[1;30msr.{}\033[m e têm {} anos'.format(Hvelho, i))
 print('{} mulheres tem menos de 20 anos'.format(cont))
