@@ -8,4 +8,4 @@
 - [ ] Adicionar atividades;
 - [ ] Adicionar conteudos;
 - [x] Adicionar projetos
-![Python](C:\Users\User\Documents\Excel\imagens)
+
