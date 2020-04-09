@@ -8,7 +8,7 @@ print('\033[31mOlá, Mundo!\033[m')
 ```
 
 * [Siga-me no Instagram](https://instagram.com/abi_pisa) :wink:
-* [Siga-me no GitHub](https://github.com/abiel-pisa) :wink:
+* [Siga-me no GitHub](https://github.com/abiel-pisa) :octopus:
 
 - [ ] Adicionar atividades;
 - [ ] Adicionar conteudos;
